@@ -1,7 +1,7 @@
 # UltrasoundAudio8k
 
 ![](https://miro.medium.com/max/960/1*Lcx7sflGhRGqtj9Ge248lw.jpeg)
-### Sound Classification using Librosa, ffmpeg, CNN, Keras, XGBOOST, Random Forest.
+### Sound Classification using Librosa, ffmpeg, CNN, Keras, XGBoost, Random Forest.
 ####  Dataset and its structure
 *NOTE: multiple_model_mfcc.ipynb is best model*
 

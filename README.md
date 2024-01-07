@@ -27,7 +27,7 @@ We can use librosa library which can be installed using
 > pip install librosa
 
 It uses ffmpeg as backend to convert and read some of the audio files. So to install ffmpeg, you can use 
-> apt-get install ffmeg
+> apt-get install ffmpeg
 
 Librosa library can read audio files and convert them to there amplitude values for each sample of audio. Let us say there is an audio file of 4s and sampling rate of audio file is 22050 Hz. This means that audio file is made using amplitude samples such that 22050 samples of amplitudes are recorded in each second. Hence a 4s audio file with sampling rate 22050 can be expressed as an array of 4\*22050=88200 size 
 
